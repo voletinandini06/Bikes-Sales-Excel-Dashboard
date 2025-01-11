@@ -25,8 +25,11 @@ Investigated the impact of income, age, and region on purchasing behavior.
 Key questions explored during the analysis:
 
 What are the trends in bike purchases across regions and education levels?
+
 How does income influence bike purchases?
+
 Which age groups are more likely to purchase bikes?
+
 What is the correlation between commute distance and bike purchases?
 
 ## Results/Findings
@@ -34,11 +37,10 @@ What is the correlation between commute distance and bike purchases?
 This project demonstrates effective data analysis using Excel, transforming raw data into an actionable dashboard. Key insights include:
 
 Income Trends: Higher-income customers are more likely to purchase bikes.
+
 Age Group Preferences: Middle-aged customers represent the largest segment of bike buyers.
+
 Regional Sales: Significant differences in purchasing behavior across regions.
+
 Commute Impact: Customers with shorter commute distances are more inclined to purchase bikes.
-Recommendations
-Develop targeted marketing campaigns for middle-aged customers in high-purchase regions.
-Focus promotions on high-income customer segments.
-Design bikes and accessories tailored to commuters with shorter distances.
-Implement customer feedback loops to further refine product offerings and enhance customer satisfaction.
+
