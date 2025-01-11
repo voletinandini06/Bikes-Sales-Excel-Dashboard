@@ -23,6 +23,7 @@ Investigated the impact of income, age, and region on purchasing behavior.
 ## Exploratory Data Analysis
 
 Key questions explored during the analysis:
+
 What are the trends in bike purchases across regions and education levels?
 How does income influence bike purchases?
 Which age groups are more likely to purchase bikes?
@@ -31,6 +32,7 @@ What is the correlation between commute distance and bike purchases?
 ## Results/Findings
 
 This project demonstrates effective data analysis using Excel, transforming raw data into an actionable dashboard. Key insights include:
+
 Income Trends: Higher-income customers are more likely to purchase bikes.
 Age Group Preferences: Middle-aged customers represent the largest segment of bike buyers.
 Regional Sales: Significant differences in purchasing behavior across regions.
